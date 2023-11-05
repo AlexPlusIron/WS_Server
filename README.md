@@ -1,7 +1,7 @@
 # Websocket_Server
  Websocket server with keyword search and content download
 
-1.install module "request" with cmd/terminal command "npm install request"
+1.install module "request" with cmd/terminal command "npm install request" to your system
 
 2.start with cmd/terminal command "node server.js"
 
